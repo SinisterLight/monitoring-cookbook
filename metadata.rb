@@ -1,4 +1,4 @@
-name             'monitoring-cookbook'
+name             'monitoring'
 maintainer       'Shobhit Srivastava'
 maintainer_email 'me@sinisterlight.com'
 license          'All rights reserved'
