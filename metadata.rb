@@ -6,3 +6,4 @@ description      'Installs/Configures monitoring-cookbook'
 long_description 'Installs/Configures monitoring-cookbook'
 version          '0.0.0'
 
+depends 'monitoring-icinga'
